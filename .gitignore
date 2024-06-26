@@ -1,0 +1,4 @@
+modelfiles/maxbai-embed/mxbai-embed-large-v1-f16.gguf
+modelfiles/eeve/ggml-model-Q5_K_M.gguf
+modelfiles/kullm3/kullm3.Q8_0.gguf
+modelfiles/ko-llama3/Llama-3-Open-Ko-8B-Instruct-preview-Q8_0.gguf
