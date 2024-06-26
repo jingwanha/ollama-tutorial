@@ -1,0 +1,1 @@
+docker run -d --gpus="0" -v ollama:/root/.ollama -v //home/finlab/workspace/ollama-tutorial/modelfiles:/modelfiles   -p 11455:11434 --name ollama ollama/ollama
